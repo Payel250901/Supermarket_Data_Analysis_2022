@@ -5,7 +5,7 @@ Hi, I am Payel. This is my brief data analysis of the supermarket 2022 dataset u
 
 
               
-![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/62c97a7b-9a39-4de8-91c7-3286000e5e66)
+ ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/62c97a7b-9a39-4de8-91c7-3286000e5e66)
 
 
 
@@ -38,12 +38,12 @@ Sales marketing is the foundation of any successful commercial venture, flawless
 # Here are the outcomes of the sales report after analyzing the report.
 1. Accoriding to my report, I analyze that **Amazon** has the maximum number of orders,  but Meesho is still underperforming, according to the 2022 dataset.
 
- ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/1845ecf1-c34d-4653-9705-f96657b18130)
+  ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/1845ecf1-c34d-4653-9705-f96657b18130)
 
 
 2.  Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu are the Top Main states generating the highest sales.
    
-   ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/0833afc5-8762-4ca6-8369-cd4f30e82c76)
+    ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/0833afc5-8762-4ca6-8369-cd4f30e82c76)
 
    
 4.  
@@ -58,7 +58,7 @@ Sales marketing is the foundation of any successful commercial venture, flawless
 
 4. The **Set** clothing category received the highest orders.
    
-  ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/81df4ee0-82a2-4714-b3d4-87bfa1e38081)
+   ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/81df4ee0-82a2-4714-b3d4-87bfa1e38081)
 
 
 
@@ -74,12 +74,12 @@ Sales marketing is the foundation of any successful commercial venture, flawless
 - Refunded: 517
 - Returned: 1045
  
-  ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/4ff7c576-a4d7-48dd-af4a-b6d98e4ad90e)
+   ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/4ff7c576-a4d7-48dd-af4a-b6d98e4ad90e)
 
 
 7. March has the highest sales and order numbers, while November has the lowest.
    
-  ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/f6d20b3a-2fc3-49cb-b815-93311a6e1797)
+   ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/f6d20b3a-2fc3-49cb-b815-93311a6e1797)
 
 
 # Conclusion
