@@ -4,7 +4,8 @@ Hi, I am Payel. This is my brief data analysis of the supermarket 2022 dataset u
 
 
 
-              [image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/54140466-2a91-4990-95db-05f287b376d7)
+              
+![][image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/54140466-2a91-4990-95db-05f287b376d7)
 
 
 
