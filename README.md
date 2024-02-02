@@ -38,11 +38,13 @@ Sales marketing is the foundation of any successful commercial venture, flawless
 # Here are the outcomes of the sales report after analyzing the report.
 1. Accoriding to my report, I analyze that **Amazon** has the maximum number of orders,  but Meesho is still underperforming, according to the 2022 dataset.
 
-![alt text]]![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/90624c3c-a6ca-4d31-b5d2-44c4dca81dc3)
+ ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/1845ecf1-c34d-4653-9705-f96657b18130)
+
 
 2.  Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu are the Top Main states generating the highest sales.
    
-   ![alt text]![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/85f691b5-187d-45b6-8a2a-7b9449f20ee1)
+   ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/0833afc5-8762-4ca6-8369-cd4f30e82c76)
+
    
 4.  
 - Delhi: New Delhi
@@ -51,16 +53,19 @@ Sales marketing is the foundation of any successful commercial venture, flawless
 - Tamil Nadu: Chennai
 - Telangana: Hyderabad
   
-![alt text]![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/9fbc2aed-7cfe-46a9-b51f-c0352005f887)
+  ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/8cd9cb38-9608-4503-9ec2-3c240e4fda7c)
+
 
 4. The **Set** clothing category received the highest orders.
    
-![alt text]!![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/7588eec8-ab84-4369-9a27-2e37369f006f)
+  ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/81df4ee0-82a2-4714-b3d4-87bfa1e38081)
+
 
 
 6. **Women** are likely to purchase more compared to men.
 
-![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/782a366a-a8dc-4751-940c-7cae202d78ab)
+    ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/6f2a2786-cda1-49e5-b809-6a9b75a38de8)
+
 
 
 8.
@@ -69,11 +74,12 @@ Sales marketing is the foundation of any successful commercial venture, flawless
 - Refunded: 517
 - Returned: 1045
  
-![alt text]![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/db97c83e-e750-4421-9bc6-5eb24e245d27)
+  ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/4ff7c576-a4d7-48dd-af4a-b6d98e4ad90e)
+
 
 7. March has the highest sales and order numbers, while November has the lowest.
    
-![alt text]![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/9f8213d9-f101-408f-a44b-81068d2d601b)
+  ![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/f6d20b3a-2fc3-49cb-b815-93311a6e1797)
 
 
 # Conclusion
