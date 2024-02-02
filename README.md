@@ -58,8 +58,9 @@ Sales marketing is the foundation of any successful commercial venture, flawless
 
 
 6. **Women** are likely to purchase more compared to men.
-   
-![alt text]![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/f71e0090-4b63-4c0d-be32-4aa0a0d5cbe2)
+
+![image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/782a366a-a8dc-4751-940c-7cae202d78ab)
+
 
 8.
  - Cancelled: 844
