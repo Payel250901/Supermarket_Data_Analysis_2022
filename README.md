@@ -1,7 +1,7 @@
 # Supermarket_Data_Analysis_2022
 Hi I am Payel , This is my   brief data analysis of supermarket 2022 dataset using excel
 
-![][image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/a63117a7-a002-4c01-806e-949eccfe842d)
+![alt text][image](https://github.com/Payel250901/Supermarket_Data_Analysis_2022/assets/158448374/a63117a7-a002-4c01-806e-949eccfe842d)
 
 
 # INTRODUCTION
